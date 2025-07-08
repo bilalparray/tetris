@@ -1,0 +1,6 @@
+{
+  "appId": "com.qayham.tetris",
+  "appName": "tetris",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
