@@ -1,6 +1,19 @@
 {
-  "appId": "com.qayham.tetris",
+  "appId": "com.qayham.tictactoe",
   "appName": "tetris",
   "webDir": "www",
-  "bundledWebRuntime": false
+  "bundledWebRuntime": false,
+  "plugins": {
+    "EdgeToEdge": {
+      "backgroundColor": "#000000"
+    },
+    "CapacitorHttp": {
+      "ios": {
+        "pluginClass": "CapacitorHttpPlugin"
+      },
+      "android": {
+        "pluginClass": "CapacitorHttpPlugin"
+      }
+    }
+  }
 }

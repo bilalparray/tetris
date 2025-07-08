@@ -1,5 +1,5 @@
 {
-  "name": "tetris",
+  "name": "capacitor-tic-tac-toe",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "@capacitor/android": "^7.4.1",
     "@capacitor/cli": "^7.4.1",
-    "@capacitor/core": "^7.4.1"
+    "@capacitor/core": "^7.4.1",
+    "@capawesome/capacitor-android-edge-to-edge-support": "^7.2.2"
   }
 }

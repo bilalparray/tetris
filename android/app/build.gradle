@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.qayham.tetris"
+    namespace "com.qayham.tictactoe"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.qayham.tetris"
+        applicationId "com.qayham.tictactoe"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

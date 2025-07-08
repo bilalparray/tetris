@@ -1,4 +1,4 @@
-package com.qayham.tetris;
+package com.qayham.tictactoe;
 
 import com.getcapacitor.BridgeActivity;
 
